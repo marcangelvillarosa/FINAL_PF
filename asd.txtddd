@@ -1,0 +1,62 @@
+  private void button2_Click(object sender, EventArgs e)
+  {
+      string userName = UserName.Text.Trim();
+      string password = Password.Text.Trim();
+
+      if (string.IsNullOrEmpty(userName) || string.IsNullOrEmpty(password))
+      {
+          MessageBox.Show("Please enter both username and password.");
+          return;
+      }
+
+      string connectionString = "server=localhost;user=root;database=pf;password=;";
+      using (MySqlConnection connection = new MySqlConnection(connectionString))
+      {
+          connection.Open();
+
+          string query = "SELECT * FROM users WHERE FullName = @FullName";
+          MySqlCommand command = new MySqlCommand(query, connection);
+          command.Parameters.AddWithValue("@FullName", label7.Text.Trim());
+
+          MySqlDataAdapter sda = new MySqlDataAdapter(command);
+          DataTable dta = new DataTable();
+          sda.Fill(dta);
+
+          if (dta.Rows.Count == 0)
+          {
+              MessageBox.Show("User not recognized.");
+          }
+          else
+          {
+              string dbUserName = dta.Rows[0]["UserName"].ToString();
+              string dbPassword = dta.Rows[0]["Password"].ToString();
+
+              if (dbUserName == userName && dbPassword == password)
+              {
+                  Home home = new Home();
+                  this.Hide();
+                  home.Show();
+
+
+                  var credentials = Credentials.FromApiKeyAndSecret(
+                  label11.Text,
+                  label12.Text
+                  );
+
+                  var VonageClient = new VonageClient(credentials);
+                  var response = VonageClient.SmsClient.SendAnSmsAsync(new Vonage.Messaging.SendSmsRequest()
+                  {
+                      To = label14.Text,
+                      From = label13.Text,
+                      Text = label7.Text + " has currently arrived at the premises of Holy Cross of Davao College."
+                  });
+                  MessageBox.Show("sms send successfully");
+
+              }
+              else
+              {
+                  MessageBox.Show("Invalid username or password.");
+              }
+          }
+      }
+  }

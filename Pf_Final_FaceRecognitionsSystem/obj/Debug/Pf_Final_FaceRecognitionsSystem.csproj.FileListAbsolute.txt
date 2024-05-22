@@ -1,0 +1,405 @@
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe.config
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\BouncyCastle.Cryptography.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\ColorTranslations.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Enums.NET.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Epoch.net.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Google.Protobuf.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\jose-jwt.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Hash.xxHash.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Options.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\MySql.Data.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Newtonsoft.Json.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Buffers.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Abstractions.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Pipelines.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Memory.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Numerics.Vectors.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Security.Cryptography.Cng.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Encodings.Web.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Json.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.ValueTuple.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Vonage.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Yoh.Text.Json.NamingPolicies.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\ZstdSharp.dll
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\BouncyCastle.Cryptography.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Enums.NET.pdb
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Enums.NET.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Epoch.net.pdb
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Epoch.net.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Google.Protobuf.pdb
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Google.Protobuf.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Hash.xxHash.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Options.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\MySql.Data.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Newtonsoft.Json.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Buffers.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Abstractions.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Pipelines.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Memory.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Numerics.Vectors.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Encodings.Web.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Json.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.ValueTuple.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Vonage.xml
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.AssemblyReference.cache
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.SuggestedBindingRedirects.cache
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\PfFinalProject.FaceRecognitionSystem.resources
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.Home.resources
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.Properties.Resources.resources
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\PfFinal.register.resources
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.GenerateResource.cache
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.CoreCompileInputs.cache
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.CopyComplete
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.exe
+E:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe.config
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.exe
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\BouncyCastle.Cryptography.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\ColorTranslations.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Enums.NET.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Epoch.net.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Google.Protobuf.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\jose-jwt.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Hash.xxHash.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Options.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\MySql.Data.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Newtonsoft.Json.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Buffers.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Abstractions.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Pipelines.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Memory.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Numerics.Vectors.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Security.Cryptography.Cng.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Encodings.Web.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Json.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.ValueTuple.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Vonage.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Yoh.Text.Json.NamingPolicies.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\ZstdSharp.dll
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\BouncyCastle.Cryptography.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Enums.NET.pdb
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Enums.NET.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Epoch.net.pdb
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Epoch.net.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Google.Protobuf.pdb
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Google.Protobuf.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Hash.xxHash.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Options.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\MySql.Data.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Newtonsoft.Json.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Buffers.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Abstractions.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Pipelines.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Memory.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Numerics.Vectors.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Security.Cryptography.Cng.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Encodings.Web.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Json.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.ValueTuple.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\bin\Debug\Vonage.xml
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.AssemblyReference.cache
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\PfFinalProject.FaceRecognitionSystem.resources
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.Home.resources
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.Properties.Resources.resources
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\PfFinal.register.resources
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.GenerateResource.cache
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.CoreCompileInputs.cache
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.CopyComplete
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.exe
+G:\PfFinalProject-main\Pf_Final_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.pdb
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\BouncyCastle.Cryptography.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\ColorTranslations.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Enums.NET.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Epoch.net.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Google.Protobuf.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\jose-jwt.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Hash.xxHash.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Options.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\MySql.Data.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Newtonsoft.Json.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Buffers.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Abstractions.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Pipelines.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Memory.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Numerics.Vectors.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Security.Cryptography.Cng.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Encodings.Web.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Json.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.ValueTuple.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Vonage.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Yoh.Text.Json.NamingPolicies.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\ZstdSharp.dll
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\BouncyCastle.Cryptography.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Enums.NET.pdb
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Enums.NET.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Epoch.net.pdb
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Epoch.net.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Google.Protobuf.pdb
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Google.Protobuf.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Hash.xxHash.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Options.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\MySql.Data.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Newtonsoft.Json.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Buffers.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Abstractions.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Pipelines.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Memory.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Numerics.Vectors.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Security.Cryptography.Cng.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Encodings.Web.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Json.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.ValueTuple.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Vonage.xml
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.AssemblyReference.cache
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\PfFinalProject.FaceRecognitionSystem.resources
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\PfFinal.register.resources
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.GenerateResource.cache
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.CoreCompileInputs.cache
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.CopyComplete
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Pf_Final_Project.exe.config
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Pf_Final_Project.exe
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Pf_Final_Project.pdb
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.Properties.Resources.resources
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.exe
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.pdb
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Pf_Final_Project.exe.config
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Pf_Final_Project.exe
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Pf_Final_Project.pdb
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\BouncyCastle.Cryptography.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\ColorTranslations.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Enums.NET.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Epoch.net.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Google.Protobuf.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\jose-jwt.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Hash.xxHash.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Options.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\MySql.Data.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Newtonsoft.Json.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Buffers.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Abstractions.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Pipelines.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Memory.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Numerics.Vectors.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Security.Cryptography.Cng.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Encodings.Web.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Json.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.ValueTuple.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Vonage.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Yoh.Text.Json.NamingPolicies.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\ZstdSharp.dll
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\BouncyCastle.Cryptography.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Enums.NET.pdb
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Enums.NET.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Epoch.net.pdb
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Epoch.net.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Google.Protobuf.pdb
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Google.Protobuf.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\K4os.Hash.xxHash.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Options.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\MySql.Data.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Newtonsoft.Json.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Buffers.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Abstractions.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.IO.Pipelines.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Memory.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Numerics.Vectors.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Security.Cryptography.Cng.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Encodings.Web.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Text.Json.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\System.ValueTuple.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\TestableIO.System.IO.Abstractions.Wrappers.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\bin\Debug\Vonage.xml
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.AssemblyReference.cache
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.SuggestedBindingRedirects.cache
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\PfFinalProject.FaceRecognitionSystem.resources
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\KSLR_R_FaceRecognitionsSystem.Home.resources
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.Properties.Resources.resources
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\PfFinal.register.resources
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.GenerateResource.cache
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.CoreCompileInputs.cache
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_FaceRecognitionsSystem.csproj.CopyComplete
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.exe
+E:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.pdb
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.Usernotfound.resources
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.enterpassandemail.resources
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.guardiannotified.resources
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.invalidcredentials.resources
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.usernotrecognized.resources
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.fillall.resources
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\Pf_Final_Project.facestored.resources
+G:\PfFinalProject-main - Copy\Pf_Final_FaceRecognitionsSystem\obj\Debug\PF_Final.Home.resources
